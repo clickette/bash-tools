@@ -7,7 +7,7 @@ clear
 echo Pulling... Press ^C to stop.
 echo
 echo Latest pull \(updates every 5 seconds\):
-echo
+echo 
 sudo git pull
 sleep 5
 done
